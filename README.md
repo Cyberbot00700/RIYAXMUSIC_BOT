@@ -10,7 +10,7 @@
 </p>
 
 <h2 align="center">
-    ──「 RIYA MUSIC 」──
+    ──「 RIYA X MUSIC 」──
 </h2>
 
 <p align="center">

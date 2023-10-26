@@ -14,24 +14,24 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID"))
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "Branded 𝐌υʂι𝐂")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "★彡[ʀɪʏᴀ x ᴍᴜꜱɪᴄ]彡★")
 
-OWNER_ID = list(map(int, getenv("OWNER_ID", "6409527937").split()))
+OWNER_ID = list(map(int, getenv("OWNER_ID", "6495765183").split()))
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/brandedrajput/Branded_musicbot")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://t.me/BRANDED_SERVER")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Branded_sarver1")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/Branded_sarver123")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ABT_KINGxYT")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/CYBERczy")
 
 SUPPORT_HEHE = SUPPORT_GROUP.split("me/")[1]
 
-DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", "180"))
-SONG_DOWNLOAD_DURATION = int(getenv("SONG_DOWNLOAD_DURATION_LIMIT", "180"))
+DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", "380"))
+SONG_DOWNLOAD_DURATION = int(getenv("SONG_DOWNLOAD_DURATION_LIMIT", "200"))
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
 AUTO_LEAVE_ASSISTANT_TIME = int(
@@ -47,8 +47,8 @@ TELEGRAM_DOWNLOAD_EDIT_SLEEP = int(getenv("TELEGRAM_EDIT_SLEEP", "3"))
 
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "19609edb1b9f4ed7be0c8c1342039362")
 SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", "409e31d3ddd64af08cfcc3b0f064fcbe")
-VIDEO_STREAM_LIMIT = int(getenv("VIDEO_STREAM_LIMIT", "5"))
-SERVER_PLAYLIST_LIMIT = int(getenv("SERVER_PLAYLIST_LIMIT", "100"))
+VIDEO_STREAM_LIMIT = int(getenv("VIDEO_STREAM_LIMIT", "180"))
+SERVER_PLAYLIST_LIMIT = int(getenv("SERVER_PLAYLIST_LIMIT", "300"))
 PLAYLIST_FETCH_LIMIT = int(getenv("PLAYLIST_FETCH_LIMIT", "75"))
 
 CLEANMODE_DELETE_MINS = int(getenv("CLEANMODE_MINS", "5"))
@@ -75,27 +75,27 @@ clean = {}
 autoclean = []
 
 
-START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/c03999004944c0657ee55.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/f6850d71fa06f4a0fb5d0.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://telegra.ph/file/ea0a3dc2d80e59454be21.jpg",
+    "https://telegra.ph/file/8fd541974f82e4de4eba1.jpg",
 )
 
-PLAYLIST_IMG_URL = "https://telegra.ph/file/091ec94573c7e1d88572b.jpg"
+PLAYLIST_IMG_URL = "https://telegra.ph/file/730ea192fae8f63d5b891.jpg"
 
-GLOBAL_IMG_URL = "https://telegra.ph/file/bf82317afdbbf43967aa6.jpg"
+GLOBAL_IMG_URL = "https://telegra.ph/file/94359b187c71d468a7298.jpg"
 
-STATS_IMG_URL = "https://telegra.ph/file/53efdc7b2dd403f60fdee.jpg"
+STATS_IMG_URL = "https://telegra.ph/file/34a65c981a56a99abc3c1.jpg"
 
-TELEGRAM_AUDIO_URL = "https://telegra.ph/file/1bba1eb82deae5aa53c0a.jpg"
+TELEGRAM_AUDIO_URL = "https://telegra.ph/file/d2b678f11b1646c56db4e.jpg"
 
-TELEGRAM_VIDEO_URL = "https://telegra.ph/file/b414e94060b9394125543.jpg"
+TELEGRAM_VIDEO_URL = "https://telegra.ph/file/d2b678f11b1646c56db4e.jpg"
 
-STREAM_IMG_URL = "https://telegra.ph/file/2e596754e83c8146f6d3f.jpg"
-SOUNCLOUD_IMG_URL = "https://telegra.ph/file/9bbd09a299625701c7192.jpg"
+STREAM_IMG_URL = "https://telegra.ph/file/94359b187c71d468a7298.jpg"
+SOUNCLOUD_IMG_URL = "https://telegra.ph/file/94359b187c71d468a7298.jpg"
 
-YOUTUBE_IMG_URL = "https://telegra.ph/file/7c457040ed02ca61bb24f.jpg"
+YOUTUBE_IMG_URL = "https://telegra.ph/file/8fd541974f82e4de4eba1.jpg"
 
 SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/9bbd09a299625701c7192.jpg"
 SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/file/9bbd09a299625701c7192.jpg"
@@ -131,4 +131,4 @@ if PING_IMG_URL:
 if START_IMG_URL:
     if START_IMG_URL != "assets/Ping.jpeg":
         if not re.match("(?:http|https)://", START_IMG_URL):
-            START_IMG_URL = "https://telegra.ph/file/1bba1eb82deae5aa53c0a.jpg"
+            START_IMG_URL = "https://telegra.ph/file/7c17b1247bf7423d712c9.jpg"

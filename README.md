@@ -10,7 +10,7 @@
 </p>
 
 <h2 align="center">
-    ──「 ˹Branded 𝐌ᴜsɪ𝐂˼ 」──
+    ──「 RIYA MUSIC 」──
 </h2>
 
 <p align="center">

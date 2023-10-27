@@ -95,7 +95,7 @@ TELEGRAM_VIDEO_URL = "https://telegra.ph/file/d2b678f11b1646c56db4e.jpg"
 STREAM_IMG_URL = "https://telegra.ph/file/94359b187c71d468a7298.jpg"
 SOUNCLOUD_IMG_URL = "https://telegra.ph/file/94359b187c71d468a7298.jpg"
 
-YOUTUBE_IMG_URL = ""
+YOUTUBE_IMG_URL = "https://telegra.ph/file/7c17b1247bf7423d712c9.jpg"
 
 SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/9bbd09a299625701c7192.jpg"
 SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/file/9bbd09a299625701c7192.jpg"

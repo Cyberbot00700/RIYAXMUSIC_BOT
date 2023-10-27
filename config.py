@@ -21,7 +21,7 @@ OWNER_ID = list(map(int, getenv("OWNER_ID", "6495765183").split()))
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://t.me/BRANDED_SERVER")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://t.me/ABT_KINGxYT")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
@@ -95,7 +95,7 @@ TELEGRAM_VIDEO_URL = "https://telegra.ph/file/d2b678f11b1646c56db4e.jpg"
 STREAM_IMG_URL = "https://telegra.ph/file/94359b187c71d468a7298.jpg"
 SOUNCLOUD_IMG_URL = "https://telegra.ph/file/94359b187c71d468a7298.jpg"
 
-YOUTUBE_IMG_URL = "https://telegra.ph/file/8fd541974f82e4de4eba1.jpg"
+YOUTUBE_IMG_URL = ""
 
 SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/9bbd09a299625701c7192.jpg"
 SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/file/9bbd09a299625701c7192.jpg"

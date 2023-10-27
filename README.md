@@ -1,7 +1,7 @@
 ### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
 
 <!--
-**brandedrajput/brandedrajput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cyberbot00700/RIYAXMUSIC_BOT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <p align="center">
@@ -18,11 +18,11 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/brandedrajput/Branded_musicbot/stargazers"><img src="https://img.shields.io/github/stars/brandedrajput/Branded_musicbot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/Cyberbot00700/RIYAXMUSIC_BOT/stargazers"><img src="https://img.shields.io/github/stars/CYBERBOT00700/RIYAXMUSIC_BOT?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 <a href="https://github.com/brandedrajput/Branded_musicbot/network/members"> <img src="https://img.shields.io/github/forks/brandedrajput/Branded_musicbot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/brandedrajput/Branded_musicbot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/Cyberbot00700/RIYAXMUSIC_BOT/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/brandedrajput/Branded_musicbot/commits/AnonymousX1025"> <img src="https://img.shields.io/github/last-commit/brandedrajput/Branded_musicbot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/Cyberbot00700/RIYAXMUSIC_BOT/commits/AnonymousX1025"> <img src="https://img.shields.io/github/last-commit/brandedrajput/Branded_musicbot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
@@ -32,13 +32,13 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/brandedrajput/Branded_musicbot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Cyberbot00700/RIYAXMUSIC_BOT.git"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/brandedrajput/Branded_musicbot/blob/master/sample.env)
+- Get your [NESSESERY VARIABLES](https://github.com/Cyberbot00700/RIYAXMUSIC_BOT/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -73,7 +73,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <p align="center">
 <a href="https://telegram.me/Branded_sarver123"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
-
+https://github.com/brandedrajput/Branded_musicbot
 <p align="center">
 <a href="https://telegram.me/Branded_sarver"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
@@ -91,4 +91,4 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <a href="https://github.com/TheHamkerCat"> <img src="https://img.shields.io/badge/TheHamkerCat-black?style=for-the-badge&logo=github" alt="TheHamkerCat" /> </a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ARYAN ARYA](https://github.com/aryanabhiarya8) ғᴏʀ [Branded ᴍᴜsɪᴄ](https://github.com/brandedrajput/Branded_musicbot)_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ARYAN ARYA](https://github.com/aryanabhiarya8)And[BRANDED RAJPUT](https://github.com/brandedrajput) ғᴏʀ [Branded ᴍᴜsɪᴄ](https://t.me/RIYA_X_MUSIC_BOT)_ </b>

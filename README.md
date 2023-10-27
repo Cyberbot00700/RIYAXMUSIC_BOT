@@ -14,7 +14,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/f6850d71fa06f4a0fb5d0.jpg">
+  <img src="https://telegra.ph/file/030e144c7206217b17fc8.jpg">
 </p>
 
 <p align="center">
